@@ -381,7 +381,7 @@ header {
     top: 68px;
     left: 0;
     right: 0;
-    z-index: 999;
+    z-index: 99999999;
 }
 
 .search-mobile .search_box {
@@ -6347,7 +6347,7 @@ i.fa-solid.fa-heart.on-icon {
 
     header {
         padding: 9px 0;
-        z-index: 9999999;
+        z-index: 999999999999;
     }
 
     .nav ul li {
